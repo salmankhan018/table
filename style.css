@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(128, 228, 241);
+    margin: 200px;
+    border: 10px solid rgb(241, 78, 13);
+    border-style: solid;
+    padding: 100px 100px 100px 350px;
+    
+}
+.name{
+    color: hsl(0, 87%, 50%);
+    font-size: x-large; 
+}
+.email{
+    color: hwb(253 5% 2%);
+    font-size: x-large; 
+}
+.password{
+    color: hsl(327, 87%, 50%);
+    font-size: x-large; 
+}
+#submit{
+    color: hsl(253, 87%, 50%);
+    font-size: x-large; 
+
+}
+   
+
